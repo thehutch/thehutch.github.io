@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently a second year Computer Games Development undergraduate at the University of Central Lancashire in the UK.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[e5637d17@opayq.com](mailto:e5637d17@opayq.com)
