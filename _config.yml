@@ -13,15 +13,9 @@ avatar: https://dl.dropboxusercontent.com/u/38714192/Panda.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribble:
   email: e5637d17@opayq.com
-  facebook:
-  flickr:
   github: thehutch
-  instagram:
   linkedin:
-  pintrest:
-  rss:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
