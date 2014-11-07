@@ -10,6 +10,6 @@ This section will contain projects I have made and what I am currently working o
 
 ### Swift Engine
 
-### Minecraft Plugins
+### University
 
-### University 
+### Minecraft Plugins
