@@ -1,5 +1,5 @@
 # Name of your site (displayed in the header)
-name: thehutch
+name: James Hutchison
 
 # Short bio or description (displayed in the header)
 description: Computer Games Developer
@@ -17,11 +17,11 @@ footer-links:
   github: thehutch
   linkedin: jhutchison1
   twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: # your stackoverflow profile, e.g. "users/3843171/thehutch"
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://thehutch.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -47,7 +47,6 @@ sass:
 
 # Use the following plug-ins
 gems:
-  - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
