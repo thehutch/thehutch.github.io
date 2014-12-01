@@ -19,6 +19,8 @@ footer-links:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/3843171/thehutch"
 
+google_analytics: UA-57263630-1
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://thehutch.github.io
