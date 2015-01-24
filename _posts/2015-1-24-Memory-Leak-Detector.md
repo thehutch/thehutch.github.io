@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Memory Leak Detector
 category: post
 description: How I developed a memory leak detector for my game engine

@@ -19,6 +19,10 @@ footer-links:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/3843171/thehutch"
 
+# Your disqus shortname, entering this will enable commenting on posts
+disqus: th3hutch
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-57263630-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
