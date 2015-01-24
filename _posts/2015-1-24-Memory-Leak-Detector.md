@@ -2,6 +2,7 @@
 layout: page
 title: Memory Leak Detector
 category: post
+description: How I developed a memory leak detector for my game engine
 ---
 
 ## Initial Findings and Issues
